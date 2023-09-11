@@ -15,7 +15,7 @@ Overall, this website blends aesthetics and functionality seamlessly. It leverag
 we have created a simple web project that demonstrates the use of JavaScript to dynamically change the background color of an HTML element. Here's a recap of what we've done:
 *HTML Structure: We set up a basic HTML document with an <h1> element and a <button> element.
 *CSS Styling: We added some CSS styles to provide initial styling to the <h1> element, giving it a light blue background.
-*JavaScript Function: We defined a JavaScript function called changeBackgroundColor that uses the querySelector method to select the <h1> element and change its background color to purple when called.
+*JavaScript Function: We defined a JavaScript function called changeBackgroundColor that uses the querySelector method to select the <h1></h1> element and change its background color to purple when called.
 *Button Interaction: We associated the changeBackgroundColor function with the button's onclick attribute. When the button is clicked, the function is triggered.
 *User Interaction: As a result, when a user clicks the "Change Background" button, the background color of the <h1> element dynamically changes to purple.
 
