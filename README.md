@@ -14,10 +14,10 @@ The footer is elegantly designed with social media icons for Facebook, Twitter, 
 Overall, this website blends aesthetics and functionality seamlessly. It leverages captivating visuals, interactive elements, and clear navigation to create an immersive experience for visitors. Whether users are exploring the sweet offerings or seeking more information, this web page effectively conveys the essence of the sweet shop and encourages them to connect and explore further.
 we have created a simple web project that demonstrates the use of JavaScript to dynamically change the background color of an HTML element. Here's a recap of what we've done:
 *HTML Structure: We set up a basic HTML document with an <h1> element and a <button> element.
-*CSS Styling: We added some CSS styles to provide initial styling to the h1 element, giving it a light blue background.
-*JavaScript Function: We defined a JavaScript function called changeBackgroundColor that uses the querySelector method to select the h1 element and change its background color to purple when called.
+*CSS Styling: We added some CSS styles to provide initial styling to the <h1></h1> element, giving it a light blue background.
+*JavaScript Function: We defined a JavaScript function called changeBackgroundColor that uses the querySelector method to select the <h1></h1> element and change its background color to purple when called.
 *Button Interaction: We associated the changeBackgroundColor function with the button's onclick attribute. When the button is clicked, the function is triggered.
-*User Interaction: As a result, when a user clicks the "Change Background" button, the background color of the <h1> element dynamically changes to purple.
+*User Interaction: As a result, when a user clicks the "Change Background" button, the background color of the <h1></h1> element dynamically changes to purple.
 
 Conclusion:
 In this project, we successfully demonstrated the power of web development by creating a basic interactive web page. By combining HTML, CSS, and JavaScript, we achieved the dynamic change of the background color of an HTML element in response to a user's action. This project serves as a foundational example of how small but impactful interactions can be effortlessly added to web content. As web development offers endless possibilities, this project provides a stepping stone for more complex and feature-rich applications in the ever-evolving world of web technology.
