@@ -1,7 +1,9 @@
 Introduction:
 The purpose of this report is to provide an overview of the website development process for a Sweet website using HTML and CSS along with DHTML and Javascript. The report outlines the key steps taken to create an aesthetically pleasing and user-friendly website for a sweets business.
+
 GITHUB OUTPUT LINK:
 https://gdurgagowri.github.io/website_using_DHTML/
+
 ABOUT:
 This HTML document represents a captivating and visually engaging website for a sweet shop, inviting visitors to indulge in a delightful world of confections. The webpage starts with a striking hero image that immediately captures attention. The hero text encourages users to "Indulge in Delicious Baked Treats" and emphasizes the enjoyment of "Sweet Moments."
 The site's top navigation bar features menu links to different sections, including "Cakes," "Ice Cream," "Sweets," "Juices," and "Contact." Each link is complemented by a scrolling pink divider, adding a playful touch to the navigation.
@@ -16,5 +18,6 @@ we have created a simple web project that demonstrates the use of JavaScript to 
 *JavaScript Function: We defined a JavaScript function called changeBackgroundColor that uses the querySelector method to select the <h1> element and change its background color to purple when called.
 *Button Interaction: We associated the changeBackgroundColor function with the button's onclick attribute. When the button is clicked, the function is triggered.
 *User Interaction: As a result, when a user clicks the "Change Background" button, the background color of the <h1> element dynamically changes to purple.
+
 Conclusion:
 In this project, we successfully demonstrated the power of web development by creating a basic interactive web page. By combining HTML, CSS, and JavaScript, we achieved the dynamic change of the background color of an HTML element in response to a user's action. This project serves as a foundational example of how small but impactful interactions can be effortlessly added to web content. As web development offers endless possibilities, this project provides a stepping stone for more complex and feature-rich applications in the ever-evolving world of web technology.
